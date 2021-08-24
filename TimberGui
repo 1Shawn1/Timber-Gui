@@ -130,7 +130,7 @@ end, {
 
 AutoFarmSettings:Cheat(
 	"Checkbox", 
-	"Trees Enabled", 
+	"Tree Aura Enabled", 
 	function(Tree)
     _G.Trees = Tree
 end)
